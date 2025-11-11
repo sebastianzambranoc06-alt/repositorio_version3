@@ -1,6 +1,5 @@
 # app_gender_classifier_completo.py
 import streamlit as st
-import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
 import load_model_from_drive
