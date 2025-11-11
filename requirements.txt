@@ -1,4 +1,4 @@
 streamlit
-keras
+keras-core
 numpy
 matplotlib

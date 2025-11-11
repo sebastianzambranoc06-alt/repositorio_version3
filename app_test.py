@@ -2,9 +2,9 @@
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
-import keras
+import keras_core as keras
 #import load_model_from_drive
-from tensorflow.keras.models import load_model
+#from tensorflow.keras.models import load_model
 from PIL import Image
 
 
